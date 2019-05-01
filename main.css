@@ -19,12 +19,12 @@ section, article, footer {
 }
 nav {
   margin: 10px;
-  > a {
+}
+nav > a {
     margin: 10px;
     color: gray;
     text-decoration: none;
   }
-}
 div > p {
   color: red;
 }
